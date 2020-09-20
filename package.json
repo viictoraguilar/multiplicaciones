@@ -1,0 +1,14 @@
+{
+  "name": "multiplicaciones",
+  "version": "1.0.0",
+  "description": "Proyecto con Logica Multiplicar",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Victor Aguilar",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^16.0.3"
+  }
+}
